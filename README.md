@@ -25,7 +25,7 @@ This repository contains the standardized empirical implementation and evaluatio
 
 ```text
 ├── data/                                # Auto-downloaded MNIST dataset directory
-├── stage1_classifier.ipynb            # Main end-to-end Jupyter Notebook
+├── generative_models_experiments.ipynb            # Main end-to-end Jupyter Notebook
 ├── 1_reconstruction_grid.png            # Figure 1: Ground Truth vs AE, Sparse AE, and VAE
 ├── 2_generative_sampling.png            # Figure 2: Random Generative Sampling Grid
 ├── 3_classifier_barrier.png             # Figure 3: Empirical Proof of MLP Classifier Generation Barriers
